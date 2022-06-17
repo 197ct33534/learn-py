@@ -1,0 +1,7 @@
+1. mở cmd lên và chạy câu lệnh sau
+python -m pip install mysql-connector-python
+2.mở xampp lên vào phpmyadmin và tạo database là python nâng cao
+3. đọc slide và chạy theo thì sẽ chạy được nhé
+
+
+guimysql.py,mysqlconnector.py,mysqlshowdbs.py không cần thiết có thể xóa
